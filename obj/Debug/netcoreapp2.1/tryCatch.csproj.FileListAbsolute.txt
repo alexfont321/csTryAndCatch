@@ -1,0 +1,11 @@
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/bin/Debug/netcoreapp2.1/tryCatch.deps.json
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/bin/Debug/netcoreapp2.1/tryCatch.runtimeconfig.json
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/bin/Debug/netcoreapp2.1/tryCatch.runtimeconfig.dev.json
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/bin/Debug/netcoreapp2.1/tryCatch.dll
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/bin/Debug/netcoreapp2.1/tryCatch.pdb
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.csprojAssemblyReference.cache
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.csproj.CoreCompileInputs.cache
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.AssemblyInfoInputs.cache
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.AssemblyInfo.cs
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.dll
+/Users/alejandro/Workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.pdb
